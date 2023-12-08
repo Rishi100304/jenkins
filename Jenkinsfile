@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         GIT_REPO_URL = 'https://github.com/Rishi100304/jenkins.git'
-        NGINX_PATH = 'E:\nginx-1.24.0\htmldocs'
+        NGINX_PATH = 'E:\\nginx-1.24.0\\htmldocs'
     }
 
     stages {
